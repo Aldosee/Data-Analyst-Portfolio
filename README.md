@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently improving my skills in data cleaning and preparation, data analysis and exploration, creating data visualizations and creating dashboards and reports. I consider myself proficient in MS Excel, SQL, PowerBi, and, Tableau and I am actively working on further enhancing and refining my abilities in that area.
 
-- :clipboard: In this portfolio, will showcase my data analytics skills and present data clearly and visually, making it easy for decision-makers to understand and take action based on the insights.
+- :clipboard: In this portfolio, will showcase my data analytics skills and analyze and present data in a clear, visually engaging manner. My portfolio reflects my ability to provide actionable insights, empowering decision-makers through effective data interpretation.
 
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/aldous-palen-b15802190/) [Tableau](https://public.tableau.com/app/profile/aldous.palen/vizzes) [Maven](https://mavenanalytics.io/profile/Aldous%20-Palen/184303138)
 
