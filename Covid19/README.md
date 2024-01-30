@@ -17,4 +17,4 @@ The primary goal of this project was to analyze and visualize key COVID-19 metri
 >Implemented SQL scripts to calculate the fatality rate by combining case and death data, shedding light on the severity of the virus in different regions.
 
 📖 Dataset:
-https://ourworldindata.org/covid-deaths
+https://data.who.int/dashboards/covid19/cases?n=c
