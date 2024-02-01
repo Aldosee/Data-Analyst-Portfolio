@@ -9,19 +9,19 @@ FROM ['WHO-COVID-19-global-data$']
 GROUP BY country
 HAVING country IN ('Cambodia', 'Malaysia', 'Philippines', 'Viet Nam', 'Indonesia', 'Thailand', 'Singapore', 'Timor-Leste', 'Laos', 'Myanmar', 'Brunei Darussalam');
 
---East Asia Total Vaccination (Include the date) and Total 1 Dose
+--East Asia Total Vaccination (Include the date) and Total 1 Dose--
 SELECT country, TOTAL_VACCINATIONS, persons_vaccinated_1plus_dose
 FROM ['vaccination-data$']
 WHERE COUNTRY IN ('Cambodia', 'Malaysia', 'Philippines', 'Viet Nam', 'Indonesia', 'Thailand', 'Singapore', 'Timor-Leste', 'Laos', 'Myanmar', 'Brunei Darussalam');
 
---GET THE VACCINES USED--
+--Get the vaccines used--
 SELECT country, COMPANY_NAME
 FROM ['vaccination-metadata$']
 INNER JOIN ['vaccination-data$'] ON dbo.['vaccination-metadata$'].ISO3 = dbo.['vaccination-data$'].ISO3
 WHERE COUNTRY IN ('Cambodia', 'Malaysia', 'Philippines', 'Viet Nam', 'Indonesia', 'Thailand', 'Singapore', 'Timor-Leste', 'Laos', 'Myanmar', 'Brunei Darussalam')
 ORDER BY country;
 
---Calculate the Case Fatality Ratio. Based on World Health Organization calculation.--
+--Calculate the Case Fatality Ratio. Based on World Health Organization calculation--
 
 #CASE WHEN ... END AS Infection_Percentage_Rate: This conditional expression calculates the infection percentage rate.
 ##It checks if the total new cases are zero, and if so, sets the Infection_Percentage_Rate to 0. Otherwise, it performs the calculation (SUM(CONVERT(INT, New_deaths)) * 100.0) / NULLIF(SUM(CONVERT(INT, 
