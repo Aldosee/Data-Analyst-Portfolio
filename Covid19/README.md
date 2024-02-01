@@ -18,3 +18,7 @@ The primary goal of this project was to analyze and visualize key COVID-19 metri
 
 📖 Dataset:
 https://data.who.int/dashboards/covid19/cases?n=c
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+**📊 COVID-19 in Philippines using SQL and PowerBI🌏**
