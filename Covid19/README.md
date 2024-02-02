@@ -1,7 +1,7 @@
 **📊 COVID-19 in Southeast Asia using SQL and [Tableau](https://public.tableau.com/views/SouthEastAsiaCovidAsofNovember2023/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 🌏**
 
 🌐 Objective: 
-The primary goal of this project was to analyze and visualize key COVID-19 metrics, including the number of cases, deaths, vaccinations, additional dosages, and the fatality rate, across Southeast Asian countries.
+The goal of this project was to analyze and visualize key COVID-19 metrics, including the number of cases, deaths, vaccinations, additional dosages, and the fatality rate, across Southeast Asian countries.
 
 🔑 Key Metrics and SQL ETL Process:
 
@@ -21,4 +21,11 @@ https://data.who.int/dashboards/covid19/cases?n=c
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**📊 COVID-19 in Philippines using SQL and PowerBI🌏**
+**📊 COVID-19 in the Philippines using SQL and PowerBI🌏**
+
+🌐 The objective of this COVID-19 project in the Philippines is to comprehensively analyze and present the regional distribution of confirmed cases, prevalent symptoms, and age groups affected. Through this exploration, it aims to contribute valuable insights for targeted public health interventions and regional strategies in mitigating the impact of the virus.
+
+📖 Dataset: 
+https://doh.gov.ph/covid19tracker
+
+📈 Dashboard: 
