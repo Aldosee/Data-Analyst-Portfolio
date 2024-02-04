@@ -1,0 +1,30 @@
+TOOLS
+• Powerbi - import the .csv Excel file to PowerBi and use it to visualize the work through charts, lines, and bar graphs to answer the goal of the analysis.
+• Excel - data extraction, data manipulation, and data analysis.
+• Figma - used this to compile my finished output and extract it to a PDF file.
+• Notepad - record my step-by-step process and jot down the flow of work from scratch to finish.
+• Miro - an online platform to make sticky notes and come up with ideas like workflow on how to start the analysis. Data extraction, data analysis, and data visualization.
+
+PROCEDURE
+1. Download File
+>Start by downloading a public dataset from Kaggle. Ensure you have proper permissions and access to the data.
+
+2. Data Exploration and Preparation
+>Begin data exploration by opening the dataset in your preferred data analysis tool. Examine the structure, columns, and data quality. In this phase, the goal of the analysis is found.
+
+3. Schema Design in MIRO
+>Consider creating a schema in MIRO to visualize the relationships between different data entities. Start with rough sketches, keeping in mind that this is a learning process.
+
+4. Identifying Primary Key and Foreign Key
+(I wanted to try it out if I can make a data model. It's really hard and I don't know if I did it right..)***
+>The most challenging part for an entry-level analyst is identifying primary and foreign keys. Utilize internet resources to learn how to define these keys for the dataset.
+
+5. Excel Data Organization
+>In Excel, organize your data according to the schema you designed in MIRO. Ensure columns have clear labels and match your schema. Data manipulation to further improve the analysis.
+
+6. Data Visualization in PowerBI
+>Import the prepared Excel data into PowerBI. Create data visualizations that explore and represent insights from the data.
+
+7. PowerBI Data Transformation
+>Describe the data transformation steps, such as DAX calculations and Power Query edits, e.g., age grouping, changing values, and date manipulations. (This is just basic Power Query edits that I searched online, I am really thankful for the internet where I can learn more.)*
+
