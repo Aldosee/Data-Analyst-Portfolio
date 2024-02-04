@@ -21,3 +21,6 @@ Practice my data analysis and show the human resource development's condition to
 
 📖 Dataset:
 https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
+
+📈 Dashboard: 
+https://www.figma.com/file/wJ2RGVlQM89uASW1qxYnD7/Untitled?type=design&node-id=0%3A1&mode=design&t=WG6HD3JvByr6qMIe-1
