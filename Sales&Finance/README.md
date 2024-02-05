@@ -2,7 +2,7 @@
 
 Welcome to the AwSales Dashboard – a dynamic platform that goes beyond conventional sales tracking, providing a comprehensive overview of our global sales performance. This meticulously crafted dashboard aims to deliver key insights, showcasing top sales achievements per country, identifying the highest-selling products, analyzing annual profits, and highlighting the most successful order line channels by valued consumers.
 
-**Key Features of the AwSales Dashboard**
+**Key Features of the AwSales PowerBI Dashboard**
 
 📌 Gain a view of global reach by exploring the top sales figures per country. Uncover trends, identify high-performing markets, and strategize for continued success.
 
