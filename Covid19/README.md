@@ -1,4 +1,4 @@
-**📊 COVID-19 in Southeast Asia using SQL and [Tableau](https://public.tableau.com/views/SouthEastAsiaCovidAsofNovember2023/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 🌏**
+**📊 COVID-19 in Southeast Asia using SQL and Tableau 🌏**
 
 🌐 Objective: 
 The goal of this project was to analyze and visualize key COVID-19 metrics, including the number of cases, deaths, vaccinations, additional dosages, and the fatality rate, across Southeast Asian countries.
@@ -18,6 +18,9 @@ The goal of this project was to analyze and visualize key COVID-19 metrics, incl
 
 📖 Dataset:
 https://data.who.int/dashboards/covid19/cases?n=c
+
+📈 Dashboard:
+[Tableau](https://public.tableau.com/views/SouthEastAsiaCovidAsofNovember2023/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
