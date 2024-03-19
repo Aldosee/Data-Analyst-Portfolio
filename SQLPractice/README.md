@@ -1,1 +1,1 @@
-
+Hello everyone, this part will be my data analysis practice using SQL for data analysis and provide a standardized way to interact with databases such as retrieve, manipulate, and analyze data effectively and efficiently. I will post my SQL query soon.
