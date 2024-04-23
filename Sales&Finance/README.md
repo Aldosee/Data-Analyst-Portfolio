@@ -1,7 +1,6 @@
 📊 **AwSales Dashboard: Data Visualization for Strategic Sales Management (Power BI)** 🌐
 
-**Introduction:**
-Imagine a data visualization tool that empowers informed sales decisions. The AwSales Dashboard, built using Power BI, is a comprehensive platform I designed to deliver actionable insights for global sales teams. It goes beyond traditional sales tracking, providing a clear picture of what's driving sales success across markets and product lines.
+  Imagine a data visualization tool that empowers informed sales decisions. The AwSales Dashboard, built using Power BI, is a comprehensive platform I designed to deliver actionable insights for global sales teams. It goes beyond traditional sales tracking, providing a clear picture of what's driving sales success across markets and product lines.
 
 **Key Features**
 
