@@ -23,7 +23,7 @@ Welcome to the AwSales Dashboard – a dynamic platform that goes beyond convent
 
 📖 Dataset: [GitHub](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx)
 
-📈 Dashboard: [PowerBI](https://github.com/Aldosee/Data-Analyst-Portfolio/blob/main/Sales%26Finance/AwSalesDashboard.png)
+📈 Dashboard: [PowerBI](https://github.com/Aldosee/Data-Analyst-Portfolio/blob/main/Sales%26Finance/Aw%20DataViz.png)
 
 
 
