@@ -5,4 +5,4 @@
 📖 Dataset: 
 https://doh.gov.ph/covid19tracker
 
-📈 Dashboard: [PowerBI](https://github.com/Aldosee/Data-Analyst-Portfolio/blob/main/Covid19/PhCovid(Dashboard_PowerBI).pdf)
+📈 Dashboard: [PowerBI](https://github.com/Aldosee/Data-Analyst-Portfolio/blob/main/Covid_19_Philippines/PhCovid(Dashboard_PowerBI).pdf)
