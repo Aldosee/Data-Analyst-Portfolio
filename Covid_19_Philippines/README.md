@@ -112,4 +112,4 @@ The COVID-19 project in the Philippines is to comprehensively analyze and presen
 
 ⚙️ Script: [SQL](https://github.com/Aldosee/Data-Analyst-Portfolio/blob/main/Covid_19_Philippines/SSMS_PhCovid(11.03.24).sql)
 
-📈 Dashboard: [PowerBI](Data-Analyst-Portfolio\Covid_19_Philippines\assets\CovidPh Dashboard.png)
+📈 Dashboard: [PowerBI](https://github.com/Aldosee/Data-Analyst-Portfolio/blob/main/Covid_19_Philippines/assets/CovidPh%20Dashboard.png)
