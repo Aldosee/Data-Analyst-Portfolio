@@ -23,5 +23,5 @@
 
 📖 Dataset: [GitHub](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx)
 
-📈 Dashboard: [PowerBI](https://github.com/Aldosee/Data-Analyst-Portfolio/blob/main/Sales%26Finance/Aw%20DataViz.png)
+📈 Dashboard: [PowerBI](Data_Analyst_Portfolio/MS_Excel/Sales_Finance/Aw_DataViz_updated.png)
 
