@@ -9,4 +9,4 @@ DSA Financial illustrates the 5 countries in their sales history, total sales, t
 📖 Dataset: [Microsoft](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report#get-data)
 
 📈 Dashboard:
-[MicrosoftExcel](https://github.com/Aldosee/Data-Analyst-Portfolio/blob/main/MSExcel/DSAFinancialDashboard.png)
+![MicrosoftExcel](assets/DSAFinancialDashboard.png)
